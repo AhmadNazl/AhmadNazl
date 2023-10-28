@@ -16,8 +16,8 @@ My skills:<br>
 Html5
 <br>
 Css<br>
-Python<br>
-Django<br><img src="https://icons8.com/icon/baihjTL3IBX9/django-a-high-level-python-web-framework-that-encourages-rapid-development">
+<img src= "![image](https://github.com/AhmadNazl/AhmadNazl/assets/69329674/971ba5a5-c188-436c-87a3-cc41929f756b)">
+<img src="![image](https://github.com/AhmadNazl/AhmadNazl/assets/69329674/ee28ac73-fa7a-441c-b5e9-78dee5006960)">
 Flask<br>
 Django Rest Framwork<br>
 Linux<br>
