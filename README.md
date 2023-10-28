@@ -13,6 +13,6 @@ I'm Ahmad Nazlabadi a python developer
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<a href=&quothttps://github.com/ghost1372&quot>
-<img align=&quotcenter&quot src=&quothttps://github-readme-stats.vercel.app/api/top-langs/?username=ghost1372&quot />
+<a href=&quothttps://github.com/AhmadNazl&quot>
+<img align=&quotcenter&quot src=&quothttps://github-readme-stats.vercel.app/api/top-langs/?username=AhmadNazl&quot />
 </a>
