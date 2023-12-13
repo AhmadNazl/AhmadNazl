@@ -1,22 +1,18 @@
-### Hi there 👋
+<h1 align="center">Hello , I'm Ahmad Nazlabadi</h1>
+<h3 align="center">Back-End developer 💻</h3>
+
+# 💫 About Me:
+- 🔭 I’m currently working on  :    <a href="https://www.virasmart.co/en/" target="_blank">Vira Smart Label</a> <br>
+- 💬 Ask me about **php, laravel**
+
+## 🌐 Socials:
+[![Instagram]logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/hamidreza-farzin-8a6549219/) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/h__victor) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Hamid_r_f) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@H_VICTOR) 
+
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 
-I'm Ahmad Nazlabadi a python developer
+---
+[![](https://visitcount.itsvg.in/api?id=hamidrezafarzin&label=Profile%20Views&color=12&pretty=true)](https://visitcount.itsvg.in)
 
-
-- 🔭 I’m always coding...
-- 📫 How to reach me: <br>
-Email:
- mr.nazlabadi@gmail.com <br>
-Telegram: t.me/Ahmad_Nazlabadi
-
-   <h3>My skills:</h3>
-
-  ![image](https://github.com/AhmadNazl/AhmadNazl/assets/69329674/7c8627b3-3d85-4c36-8c9a-8b732d20253a)
-  ![image](https://github.com/AhmadNazl/AhmadNazl/assets/69329674/b533a66f-508b-41dc-b4ce-6bc488181d76)
-
-  
-
-
-
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
